@@ -1,29 +1,38 @@
 [
   {
     "title": "E-Commerce Web App",
-    "description": "A fully responsive online store featuring product catalog, shopping cart, and checkout simulation.",
+    "description": "A fully responsive online store featuring product listings and cart functionality.",
     "technologies": "HTML, CSS, JavaScript",
     "role": "Lead Frontend Developer",
     "screenshot": "project1.png",
-    "github": "https://github.com/JohnPaulApilado/JohnPaulApilado.github.io",
-"demo":""
+    "github": "https://github.com/JohnPaulApilado/JohnPaulApilado.git",
+    "demo": ""
   },
   {
     "title": "Task Manager Pro",
-    "description": "A productivity tool to organize daily tasks with local storage persistence and priority filtering.",
+    "description": "A productivity tool to organize daily tasks with due dates and status tracking.",
     "technologies": "HTML, JavaScript, Tailwind CSS",
     "role": "Sole Developer",
     "screenshot": "project2.png",
-    "github": "https://github.com/JohnPaulApilado/JohnPaulApilado.github.io",
-"demo":""
+    "github": "https://github.com/JohnPaulApilado/JohnPaulApilado.git",
+    "demo": ""
   },
   {
     "title": "Weather Dashboard",
-    "description": "Real-time weather application pulling forecasts and live atmospheric data from a public REST API.",
+    "description": "Real-time weather application pulling forecasts and weather data.",
     "technologies": "JavaScript, OpenWeather API, CSS",
     "role": "Full Stack Developer",
     "screenshot": "project3.png",
-    "github": "https://github.com/JohnPaulApilado/JohnPaulApilado.github.io",
-"demo":""
+    "github": "https://github.com/JohnPaulApilado/JohnPaulApilado.git",
+    "demo": ""
+  },
+  {
+    "title": "FlutterFlow Mobile App",
+    "description": "Cross-platform mobile app built with FlutterFlow — fully functional and responsive.",
+    "technologies": "Flutter, FlutterFlow, Dart",
+    "role": "Developer",
+    "screenshot": "flutterflow_app.png",
+    "github": "https://github.com/JohnPaulApilado",
+    "demo": "https://app.flutterflow.io/run/tv739tRXHOkPjHbYYX9U"
   }
 ]
